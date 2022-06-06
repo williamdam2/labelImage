@@ -1,0 +1,8 @@
+D:\c\py\labelImg\run\run_labelImage\run_labelImage\bin\Debug\run_labelImage.exe
+D:\c\py\labelImg\run\run_labelImage\run_labelImage\bin\Debug\run_labelImage.pdb
+D:\c\py\labelImg\run\run_labelImage\run_labelImage\obj\Debug\run_labelImage.csprojResolveAssemblyReference.cache
+D:\c\py\labelImg\run\run_labelImage\run_labelImage\obj\Debug\run_labelImage.Form1.resources
+D:\c\py\labelImg\run\run_labelImage\run_labelImage\obj\Debug\run_labelImage.Properties.Resources.resources
+D:\c\py\labelImg\run\run_labelImage\run_labelImage\obj\Debug\run_labelImage.csproj.GenerateResource.Cache
+D:\c\py\labelImg\run\run_labelImage\run_labelImage\obj\Debug\run_labelImage.exe
+D:\c\py\labelImg\run\run_labelImage\run_labelImage\obj\Debug\run_labelImage.pdb
